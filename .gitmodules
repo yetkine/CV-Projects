@@ -1,0 +1,6 @@
+[submodule "case-study/case-study-emiryetkin"]
+	path = case-study/case-study-emiryetkin
+	url = https://github.com/yetkine/case-study-emiryetkin.git
+[submodule "case-study/case-study-emiryetkin-frontend"]
+	path = case-study/case-study-emiryetkin-frontend
+	url = https://github.com/yetkine/case-study-emiryetkin-frontend.git
